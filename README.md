@@ -1,12 +1,8 @@
+
 # SAW Education Database Design
 
 ## Project Overview
 This project presents a structured relational database design for **SAW Education**, a consultancy company specializing in study abroad and immigration services that I had a chance to work at. Developed in MySQL, this new database structure enhances data organization, streamlines operational processes, and provides actionable insights through structured queries. The design addresses previous inefficiencies, enabling better data integrity and facilitating strategic business decisions.
-
-### Team Members
-- **Thanh Nam Vu** - Student ID: 104991276
-- **Tutorial Time**: Thursday, 4:30 PM
-- **Swinburne University of Technology**
 
 ## Objectives
 - **Enhance Data Integrity**: Ensure consistent data by implementing primary and foreign keys, enforcing referential integrity.
